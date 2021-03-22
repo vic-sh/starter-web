@@ -13,3 +13,6 @@ This is a simple web project for demos
 ## Purpose
 
 ## How to Contribute
+
+###Copyright
+2020 Git.Training
