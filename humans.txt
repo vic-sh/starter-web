@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+    Victor Shalaginov vic-sh@github.com 
 
     <name> -- <role> -- <twitter>
 
